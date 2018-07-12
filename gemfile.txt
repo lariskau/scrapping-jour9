@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem => 'nokogiri'
+
+library => open-uri
+
+version de Ruby => Ruby '2.5.1' 
